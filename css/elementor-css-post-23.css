@@ -1,0 +1,10 @@
+body.elementor-page-23:not(.elementor-motion-effects-element-type-background), body.elementor-page-23 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../images/bg-scaled.jpg");}/* Start custom CSS */.div{
+background: none !important;
+background-image:none !important;}
+.main-content{
+background: none !important;
+background-image:none !important;}
+.boxed-wrapper{
+background: none !important;
+background-image:none !important;}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

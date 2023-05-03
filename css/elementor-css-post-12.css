@@ -1,0 +1,13 @@
+.elementor-12 .elementor-element.elementor-element-7b80945c{width:var( --container-widget-width, 100.189% );max-width:100.189%;--container-widget-width:100.189%;--container-widget-flex-grow:0;}.elementor-12 .elementor-element.elementor-element-970991b{--icon-box-icon-margin:15px;}body.elementor-page-12:not(.elementor-motion-effects-element-type-background), body.elementor-page-12 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../images/bg-scaled.jpg");}/* Start custom CSS */.transparent {
+  background-color: rgba(255,255,255,0.2) !important;
+}
+.elementor-widget-container{
+    opacity:0.8 !important;
+}
+.main-content {
+    opacity:0.8 !important;
+}
+.clear-fix {
+    opacity:0.8 !important;
+}/* End custom CSS */
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
